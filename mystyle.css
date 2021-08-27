@@ -40,6 +40,9 @@ border-style: outset ;
   }
   .mydiv{
 Zoom:500%;
+margin-top:50px;
+margin-left:px;
+margin-right:px;
 
 
 }
@@ -52,7 +55,9 @@ Zoom:500%;
   }
   .mydiv{
 Zoom:0%;
-
+margin-top:0px;
+margin-left:px;
+margin-right:px;
 
 }
 }
