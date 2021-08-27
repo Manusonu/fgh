@@ -43,7 +43,7 @@ border-style: outset ;
 @media (min-width: @screen-sm-min) { 768px }
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: @screen-md-min) { 992px }
+@media (min-width: @screen-md-min) { 768px }
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width: @screen-lg-min) { 1200px }
+@media (min-width: @screen-lg-min) { 768px }
