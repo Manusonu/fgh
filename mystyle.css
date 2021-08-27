@@ -33,17 +33,18 @@ border-style: outset ;
   
   padding:10px;
 }
+@media sreen and (min-width:1200px){
+{
+
+#body{
+background-color:red;
+
+}
 
 
 
-/* Extra small devices (phones, less than 768px) */
-/* No media query since this is the default in Bootstrap */
 
-/* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm-min) { 768px }
+}
 
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: @screen-md-min) { 768px }
 
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: @screen-lg-min) { 768px }
+
