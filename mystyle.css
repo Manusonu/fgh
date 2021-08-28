@@ -41,7 +41,7 @@ border-style: outset ;
 @media screen and (max-width: 992px) {
   body {
     background-color: ;
-    background-image: url("Back.jpg");
+    background-image: url("FRONT.jpg");
 background-attachment: fixed;
 background-size: cover;
   }
