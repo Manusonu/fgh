@@ -1,7 +1,7 @@
 
 body{
-background-color:black;
-background-image: url("back.jpg");
+background-color:red;
+background-image: url("Back.jpg");
 background-attachment: fixed;
 background-size: cover;
 
@@ -41,7 +41,7 @@ border-style: outset ;
 @media screen and (max-width: 992px) {
   body {
     background-color: ;
-    background-image: url("back.jpg");
+    background-image: url("Back.jpg");
 background-attachment: fixed;
 background-size: cover;
   }
@@ -70,7 +70,7 @@ border-style: outset ;
 @media screen and (max-width: 600px) {
   body {
     background-color: ;
-    background-image: url("back.jpg");
+    background-image: url("Back.jpg");
     background-attachment: fixed;
 background-size: cover;
   }
