@@ -1,0 +1,73 @@
+#mainbody{
+background-color:black;
+background-image: url("BA.jpg");
+background-attachment: fixed;
+background-size: cover;
+}
+
+  
+  
+
+#nav{
+margin-top:px;
+
+}
+.navbar-bg{
+background-color:#082259;
+
+}
+
+#content{
+border-style:solid;
+  border-color:white;
+margin-top:10px;
+  margin-left:10px;
+  margin-right:10px;
+ }
+h3{
+font-family:Georgia;
+color:black;
+font-style:italic;
+}
+.round {
+  
+  height:179;
+  width:337px;
+}
+#m{
+text-align:center;
+
+
+}
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+
+.round {
+  
+  height:179;
+  width:702px;
+}
+
+
+}
+
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+
+.round {
+  
+  height:179;
+  width:337px;
+}
+
+
+
+
+}
+
+
+
+
+
